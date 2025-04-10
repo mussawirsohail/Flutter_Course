@@ -1,0 +1,30 @@
+void main() {
+  var name = 'Mussawir';
+  print("my name is $name");
+  int age = 20;
+  print("I am $age years old");
+  String profession = "Web-Developer";
+  print("i am a $profession");
+  String study = "Second Year";
+  print ("currently i am a student of $study");
+  String learn = "Dart";
+  print("I am learning $learn");
+  String where = "NAVTTC";
+  print("I am learning in $where");
+  String currentField = "Computer Science";
+  print("My field is $currentField");
+  double height = 5.9;
+  bool isStudent = true;
+  print("Height: $height");
+  print("Is Student? $isStudent");
+  String timing ="5 to 7 ";
+  print("Timing: $timing");
+  num favnum = 6 ;
+  print("My favorite number is: $favnum");
+  String favclr = "Black";
+  print("My favorite color is: $favclr");
+  String linkedin = "https://www.linkedin.com/in/mussawir-sohail-7602b6262/";
+  print("LinkedIn Profile Link: $linkedin");
+  String greet ="Danke";
+  print(greet);
+  }
